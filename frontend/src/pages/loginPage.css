@@ -1,0 +1,16 @@
+/* .s2h-logo {
+  height: 60px;
+} */
+
+.line-field1 {
+  border: none;
+  border-bottom: 2px solid pink;
+  padding: 8px 0;
+  font-size: 16px;
+  margin: 20px;
+  width: 85%;
+}
+
+.footer {
+  flex-shrink: 0;
+}

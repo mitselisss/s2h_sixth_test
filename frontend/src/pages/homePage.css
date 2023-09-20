@@ -1,0 +1,162 @@
+.rightpart {
+  width: 87%;
+  float: right;
+}
+
+@media only screen and (max-width: 768px) {
+  .rightpart {
+    width: 100%;
+  }
+}
+
+.meal-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-gap: 10px;
+  padding: 0 2%;
+  margin-bottom: 5%;
+}
+
+.meal-grid-left {
+  max-height: 80vh; /* set the desired maximum height */
+  width: 95%; /* set the desired width */
+  overflow-y: auto; /* add scrollbar if content overflows */
+  margin: 5%; /* set the desired margin */
+  padding: 5px;
+  background-color: rgba(243, 197, 197, 0.85);
+  border-radius: 10px;
+  cursor: pointer;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  /* border: 2px double rgba(245, 168, 168, 0.9); */
+}
+
+.meal-grid-right {
+  max-height: 80vh; /* set the desired maximum height */
+  overflow-y: auto; /* add scrollbar if content overflows */
+  margin: 5%; /* set the desired margin */
+  width: 95%; /* set the desired width */
+  padding: 5px;
+  background-color: rgba(243, 197, 197, 0.85);
+  border-radius: 10px;
+  cursor: pointer;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  /* border: 2px double rgba(245, 168, 168, 0.9); */
+}
+
+.custom-font1 {
+  font-family: "Blinker", sans-serif;
+  font-size: larger;
+  margin-top: 0.5%;
+  margin-bottom: 0.5%;
+}
+
+.dish-font-grid {
+  font-family: "Blinker", sans-serif;
+  font-size: larger;
+  margin-top: 0.5%;
+  margin-bottom: 0.5%;
+}
+.dish-font-grid:hover {
+  color: rgba(196, 4, 4, 0.397);
+  font-weight: bold;
+}
+
+.custom-font2 {
+  font-family: "Blinker", sans-serif;
+  font-size: larger;
+  font-weight: bold;
+  margin-top: 0%;
+  margin-bottom: 0.5%;
+}
+
+.custom-font3 {
+  font-family: "Blinker", sans-serif;
+  font-size: x-large;
+  margin-top: 0%;
+  margin-bottom: 0%;
+}
+
+.meal-type-font {
+  font-family: "Blinker", sans-serif;
+  font-size: x-large;
+  font-weight: bold;
+  margin-bottom: 0.5%;
+  text-decoration-line: underline;
+}
+
+.formatted-day {
+  width: 100%;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  border: 1px solid transparent;
+  background-color: #ffe27d;
+  border: 1px solid #000000;
+  border-radius: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  /* margin-left: 0.5%;
+  margin-right: 0.5%; */
+  box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.25);
+  padding-left: 5px; /* Adjust the padding value to make the background bigger */
+  padding-right: 5px; /* Adjust the padding value to make the background bigger */
+}
+@media screen and (max-width: 768px) {
+  .formatted-day {
+    width: 100%; /* Adjust the width to fit your design */
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+.formatted-days-font {
+  font-family: "Blinker", sans-serif;
+  font-size: "45px";
+  font-weight: bold;
+  margin-bottom: 0.5%;
+  color: rgb(0, 0, 0);
+}
+
+.dish-name-font {
+  font-family: "Blinker", sans-serif;
+  font-size: x-large;
+  font-weight: bold;
+  text-decoration-line: underline;
+  margin-bottom: 0%;
+}
+
+.camvas {
+  margin-right: 20px;
+  margin-left: 20px;
+  padding: 5px;
+  border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.concept-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 10px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.sth.selected {
+  color: rgba(196, 4, 4, 0.397);
+  font-weight: bold;
+}
+
+.custom-font9 {
+  font-family: "Blinker", sans-serif;
+  font-size: larger;
+  font-weight: bold;
+  margin-top: 0%;
+  margin-bottom: 0.5%;
+  color: rgba(196, 4, 4, 0.397);
+}

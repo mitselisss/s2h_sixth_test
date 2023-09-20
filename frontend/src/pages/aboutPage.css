@@ -1,0 +1,55 @@
+.rightpart {
+  width: 87%;
+  float: right;
+}
+
+@media only screen and (max-width: 768px) {
+  .rightpart {
+    width: 100%;
+  }
+}
+
+.about-page {
+  max-width: 800px;
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.85);
+  padding: 50px;
+  font-family: "Open Sans", sans-serif;
+  border: 2px solid #f9a9ad;
+  border-radius: 10px;
+  margin: 0 auto;
+}
+
+.about-page h1 {
+  font-size: 42px;
+  margin-bottom: 20px;
+  color: #393e46;
+}
+
+.about-page p {
+  font-size: 18px;
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
+
+.about-page ul {
+  text-align: left;
+  margin-left: 30px;
+  margin-bottom: 20px;
+}
+
+.about-page li {
+  font-size: 18px;
+  line-height: 1.5;
+  margin-bottom: 5px;
+}
+
+.about-font {
+  font-family: "Blinker", sans-serif;
+  font-size: larger;
+  text-align: justify;
+}
+
+.AboutPage-page-container {
+  padding-bottom: 100px; /* adjust the value as needed */
+}

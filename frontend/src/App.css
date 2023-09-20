@@ -1,0 +1,273 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.App-header {
+  width: 100%;
+  max-width: 500px;
+  margin: 0 auto;
+  text-align: center;
+  display: block;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 1rem;
+}
+
+.input-container {
+  display: flex;
+  flex-direction: column;
+  margin: 10px 0;
+}
+
+label {
+  font-weight: lighter;
+  margin-bottom: 5px;
+}
+
+input {
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #f4f5f5;
+  font-size: 16px;
+  border-color: #f9a9ad;
+  margin: 10px;
+}
+
+.button-style {
+  background-color: #f9a9ad;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.Login-logo {
+  text-align: center;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.button {
+  background-color: #f9a9ad;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.button-container {
+  margin-top: 10px;
+  font-family: "Blinker";
+  text-align: center;
+  flex-direction: row;
+  gap: 8px;
+  margin: 10px;
+}
+
+.user-title {
+  text-align: center;
+  font-family: "Blinker";
+}
+
+.sub-title {
+  text-align: center;
+}
+
+.user-logo {
+  text-align: right;
+  height: 40vmin;
+  pointer-events: none;
+  float: right;
+}
+
+.line-field {
+  border: none;
+  border-bottom: 2px solid pink;
+  width: 100%;
+  padding: 8px 0;
+  font-size: 16px;
+  margin: 20px;
+}
+
+.password-reset-page {
+  text-align: left;
+  padding: 20px;
+}
+
+.password-reset-page h1 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+.password-reset-page h2 {
+  text-align: center;
+  font-weight: lighter;
+}
+
+.password-reset-page p {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.password-reset-page .error-message {
+  margin-bottom: 20px;
+}
+
+.password-reset-page .line-field {
+  border: none;
+  border-bottom: 2px solid pink;
+  width: 100%;
+  padding: 8px 0;
+  font-size: 16px;
+}
+
+.password-reset-page .line-field:focus {
+  outline: none; /* remove the blue outline */
+  transition: border-color 0.2s ease-in-out;
+}
+
+/*.password-reset-page .line-field::placeholder {
+  color: #393e46;
+  font-weight: lighter;
+}*/
+
+.Forgot-logo {
+  position: relative;
+  top: 0;
+  right: 0;
+  margin: 10px;
+}
+
+.custom-font {
+  font-family: "Blinker", sans-serif;
+  font-size: larger;
+}
+
+.custom-font2 {
+  font-family: "Blinker", sans-serif;
+  font-size: larger;
+  font-weight: bold;
+}
+
+.meal-type-font {
+  font-family: "Blinker", sans-serif;
+  font-size: x-large;
+  font-weight: bold;
+}
+
+.dish-name-font {
+  font-family: "Blinker", sans-serif;
+  font-size: x-large;
+  font-weight: bold;
+  text-decoration-line: underline;
+}
+
+.App-forgot {
+  margin-top: 10px;
+}
+
+.UserProfile-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #f9f9f9;
+  height: 100vh;
+}
+
+.UserProfile-logo {
+  width: 120px;
+  margin-top: 40px;
+}
+
+.UserProfile-form-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
+  background-color: white;
+  padding: 40px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px 2px rgba(0, 0, 0, 0.1);
+}
+
+.UserProfile-personal-info-container,
+.UserProfile-physical-characteristics-container,
+.UserProfile-dietary-restrictions-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.UserProfile-form-group {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-bottom: 20px;
+}
+
+.UserProfile-form-group label {
+  font-size: 14px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.UserProfile-form-group input[type="text"],
+.UserProfile-form-group input[type="email"],
+.UserProfile-form-group input[type="password"],
+.UserProfile-form-group input[type="number"] {
+  width: 200px;
+  height: 40px;
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid #cccccc;
+}
+
+.UserProfile-form-group input[type="radio"] {
+  margin-right: 10px;
+}
+
+.UserProfile-form-group div {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.UserProfile-form-group input[type="checkbox"] {
+  margin-right: 10px;
+}
+
+.UserProfile-form-group button {
+  width: 200px;
+  height: 40px;
+  background-color: #f9a9ad;
+  color: white;
+  font-size: 16px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.alert-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button:hover {
+  background-color: #f3606f;
+}

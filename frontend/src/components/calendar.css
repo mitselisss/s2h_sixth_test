@@ -1,0 +1,149 @@
+.calendar {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+@media screen and (max-width: 600px) {
+  .calendar {
+    margin-top: 50px; /* Adjust the value as per your requirement */
+  }
+}
+
+.controls {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.previousweek {
+  background-image: url("../images/homePage/arrowleft.png");
+  background-repeat: no-repeat;
+  background-size: contain; /* or cover, depending on how you want to resize the image */
+  width: 50px; /* set the width and height of the button to match the size of the image */
+  height: 50px;
+  border: none; /* remove the border to make it look like an image */
+  cursor: pointer; /* set the cursor to pointer to indicate it's clickable */
+  border-radius: 100px;
+  background-color: #ffe27d;
+}
+
+.previousweek button[disabled] {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.nextweek {
+  background-image: url("../images/homePage/arrowright.png");
+  background-repeat: no-repeat;
+  background-size: contain; /* or cover, depending on how you want to resize the image */
+  width: 50px; /* set the width and height of the button to match the size of the image */
+  height: 50px;
+  border: none; /* remove the border to make it look like an image */
+  cursor: pointer; /* set the cursor to pointer to indicate it's clickable */
+  border-radius: 100px;
+  background-color: #ffe27d;
+}
+
+button:disabled {
+  background-color: #fff0ba;
+  color: #fff0ba;
+  border-color: #fff0ba;
+  cursor: default;
+}
+
+h1.custom-font {
+  font-family: "Blinker", sans-serif;
+  font-weight: bold;
+  margin: 0;
+  font-size: x-large;
+}
+
+.days {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  color: #393e46;
+  border-radius: 10px;
+}
+
+.day {
+  width: 14.28%;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  /* color: #fff4bd; */
+  border: 1px solid transparent;
+  /* transition: background-color 0.3s ease-in-out; */
+  background-color: #ffe27d;
+  border: 1px solid #000000;
+  border-radius: 30px;
+  margin-left: 0.5%;
+  margin-right: 0.5%;
+  box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.25);
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.day:hover {
+  cursor: pointer;
+  background-color: rgba(243, 197, 197, 0.9);
+  border: 1px solid rgba(243, 197, 197, 0.9);
+  border-radius: 20px;
+}
+
+.day.selected {
+  width: 17%;
+  color: #393e46;
+  background-color: #fff0ba;
+  border: 1px solid #000000;
+  border-radius: 20px;
+}
+
+@media (max-width: 768px) {
+  .day {
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #ffe27d;
+    border: 1px solid #000000;
+    border-radius: 50%;
+    margin: 0 5px;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.25);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .day:hover {
+    cursor: pointer;
+    background-color: rgba(243, 197, 197, 0.9);
+    border: 1px solid rgba(243, 197, 197, 0.9);
+    border-radius: 50%;
+  }
+
+  .day.selected {
+    width: 40px;
+    height: 40px;
+    color: #393e46;
+    background-color: #fff0ba;
+    border: 1px solid #000000;
+    border-radius: 50%;
+  }
+
+  .day h1 {
+    font-size: 23px;
+    margin: 0;
+  }
+
+  .mobile-day {
+    font-size: 20px;
+  }
+}

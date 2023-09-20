@@ -1,0 +1,361 @@
+ID,Meal_id,Language,Name
+1,1,en,Cup of semi-skimmed milk (or vegetable drink) with brown puffed rice pancakes and banana
+2,2,en,"Fruit and seed salad, and plain yoghurt"
+3,3,en,"Whole wheat fajita with avocado and cheese, and natural orange juice"
+4,4,en,Porridge with seasonal fruits
+5,5,en,"Whole grain cereal bowl with milk (or vegetable drink), and blackberries"
+6,6,en,"Yoghurt plain, and wholemeal toast with hummus and alvocado"
+7,7,en,"Cup of semi-skimmed milk (or vegetable drink) with coffee, and whole wheat toast with peanut butter and banana "
+8,8,en,Kefir with apple and walnuts
+9,9,en,"Wholemeal toast with olive oil and fresh cheese, and peach"
+10,10,en,"Cup of semi-skimmed milk (or vegetable drink) with coffee, and pancakes whole-wheat with strawberries and dark chocolate"
+11,11,en,"Wholemeal bread slice with French omelette, plain yoghur with mandarin"
+12,12,en,"Glass of kefir with chia seeds and pieces of kiwi, and multigrain rusk"
+13,13,en,"Cup of semi-skimmed milk (or vegetable drink) with pure cocoa powder, and whole-grain rusk with soft-bolied egg and grapes"
+14,14,en,"Greek-style yoghurt with fresh apricot chunks, and brown puffed rice pancakes"
+15,15,en,"Cup of semi-skimmed milk (or vegetable drink) with coffee, and turkey, apple and rocket sandwich"
+16,16,en,"Cup of semi-skimmed milk (or vegetable drink) with cinnamon powder, and wholemeal toast with tomato and natural tuna"
+17,17,en,"Tangerine, banana and semi-skimmed milk milkshake, and whole-wheat bread with olive oil"
+18,18,en,Yoghurt plain with baked apple pieces with cinnamon and chia seeds
+19,19,en,"Cup of semi-skimmed milk (or vegetable drink), and wholemeal bread slice with olive oil, soft boiled egg, and grapes"
+20,20,en,Yoghurt plain with blueberries and oatmeal
+21,21,en,Kefir with strawberries and nuts mix
+22,22,en,Yoghurt plain and nuts mix
+23,23,en,Yoghurt Greekstyle with chia seeds and banana
+24,24,en,Whole-wheat bread sticks with fresh cheese and tangerine
+25,25,en,"Whole wheat fajita with avocado and fresh cheese, and cherries"
+26,26,en,Whole wheat toast with peanut butter and apple
+27,27,en,"Fruit and seed salad, and brown puffed rice pancakes"
+28,28,en,"Whole-wheat cracker toast with apple, cinnamon compote and fresh cheese"
+29,29,en,"Whole-wheat bread sticks with lentil spread, and pineapple slices"
+30,30,en,"Turkey, apple and rocket sandwich"
+31,31,en,"Vegetable salad, Baked chicken thighs with potatoes and Pear"
+32,32,en,"Sautéed zucchini and carrot spaghetti with sesame, Scrambled eggs with prawns and wild asparagus with whole-wheat rusk, and Orange"
+33,33,en,"Country salad, Sardines Baked and Yoghurt fat-free with fruits"
+34,34,en,"Cous-cous salad, Onion and garlic omelette and plum"
+35,35,en,"Risotto with pear, spinach and walnuts, and watermelon"
+36,36,en,"Lentils with chicken and vegetables, Whole-wheat cracker toast and kiwi"
+37,37,en,"Green sprout, apple and pomegranate salad and Macaroni au gratin "
+38,38,en,"Andalusian gazpacho, Baked dorada with potatoes and peppers, and Peach"
+39,39,en,"Mushrooms sautéed with garlic, Baked chicken nuggets with quinoa batter, and Plain yoghurt"
+40,40,en,"Green beans with potatoes, Cod with tomato sauce, and Pineapple"
+41,41,en,Greek salad with watermelon and Monkfish fideuá
+42,42,en,"Boiled cauliflower with bechamel, Turkey breast marinated with orange, and plain yoghurt with oat flakes"
+43,43,en,"Red lentil salad, green spaghetti, and mandarin"
+44,44,en,"Stuffed tomatoes with brown rice and tuna, Hake with green sauce, and pear"
+45,45,en,"Green salad with goat cheese, Seafood paella, and baked apple"
+46,46,en,"Russian salad, Chicken breast booklets stuffed with spinach and cheese, and apricot"
+47,47,en,"Chickpea salad, Baked salmon with vegetables, and kiwi"
+48,48,en,"Pumpkin and zucchini cream with croutons, Rabbit stewed with garlic, and pineapple"
+49,49,en,"Stewed lentils with vegetables and rice, Baked chicken croquettes, and orange"
+50,50,en,"Catalonian broad beans, Soft boiled egg, and starwberries"
+51,51,en,"Cous-cous salad, Grilled tuna with garlic and parsley, and apple"
+52,52,en,"Cold tomato soup with boiled egg and serrano ham, Red beans burger, and watermelon"
+53,53,en,"Leek and potato vichyssoise, Baked chicken with figs, and yoghurt with fruits"
+54,54,en,"Vegetable soup with noodles, Baked turkey rolls stuffed with mushrooms, and grapes"
+55,55,en,"Cold pasta salad with vegetable and mozzarella, Turkey meatballs in sauce, and plain yoghurt"
+56,56,en,"Quinoa and tuna stuffed tomatoes, Scrambled eggs with vegetables, and cherries"
+57,57,en,"Lentil soup, Curry rice, and kiwi"
+58,58,en,"Green salad with zucchini and sesame, Eggplant, zucchini and potato veggie moussaka, and pear"
+59,59,en,"Vegetable salad, Beef stew with potatoes, and plum"
+60,60,en,Whole-wheat cracker toast with hummus
+61,61,en,"Fruit salad with banana, orange and strawberries"
+62,62,en,Kefir with blackberries and mixed nuts
+63,63,en,Yoghurt Greekstyle plain with strawberries
+64,64,en,Lentil hummus with whole-wheat bread sticks
+65,65,en,Porridge with seasonal fruits
+66,66,en,Kefir with banana and chia seeds
+67,67,en,Fermented milk fat-free plain and mixed nuts
+68,68,en,"Brown puffed rice pancakes with fresh cheese, and blackberries "
+69,69,en,"Corn salad with avocado and natural nachos, and Potatoes omelette "
+70,70,en,"Sautéed artichokes with garlic and grilled egg, and Whole wheat toast"
+71,71,en,"Shredded cod salad (Esqueixada), and Falafel with plain yogurt cream"
+72,72,en,"Whole wheat toast with escalivada, and pickled sardines"
+73,73,en,Chicken rice salad
+74,74,en,"Catalan-style peas with cured ham, and Whole-wheat rusk with fresh cheese"
+75,75,en,"Stir-fried edamames, and Cod brandade"
+76,76,en,Chicken and vegetable fajitas
+77,77,en,"Green sprout, apple and pomegranate salad, and Calamari stewed with onion"
+78,78,en,"Green salad with zucchini and sesame, and Shrimp rice noodles"
+79,79,en,"Broccoli and peas soup with seeds, and Grilled turkey and zucchini skewers"
+80,80,en,"Andalusian gazpacho, and Galician style octopus"
+81,81,en,Caesar salad
+82,82,en,Rice salad with fresh salmon or tuna and peas
+83,83,en,"Vegetable salad, Baked tuna and egg empanada"
+84,84,en,Whole wheat toast with ratatouille and grilled egg
+85,85,en,Three-delight rice
+86,86,en,Chickpea and cod salad
+87,87,en,"Milk shake with seasonal fruit and cinnamon, and mixed nuts"
+88,88,en,"Anchovies in vinegar, and rice with vegetables. Plums"
+89,89,en,"Green spaghetti, and french omelette"
+90,90,en,Cod cake
+91,1,sp,Taza de leche semidesnatada (o bebida vegetal) con tortitas de arroz integral y plátano 
+92,2,sp,"Macedonia de frutas y semillas, y yogur natural entero"
+93,3,sp,"Fajita integral con aguacate y queso fresco, y zumo de naranja natural"
+94,4,sp,Porridge con fruta de temporada
+95,5,sp,"Bol de cereales integrales con leche (o bebida vegetal), y moras"
+96,6,sp,"Yogur natural entero, y tostada de pan integral con hummus y aguacate"
+97,7,sp,"Taza de leche semidesnatada (o bebida vegetal) con café, y tostadas de pan integral con mantequilla de cacahuete y plátano"
+98,8,sp,Kefir con manzana y nueces
+99,9,sp,"Tostada integral con aceite de oliva y queso fresco, y melocotón"
+100,10,sp,"Taza de leche semidesnatada (o bebida vegetal) con café, y pancakes con fresas y chocolate negro"
+101,11,sp,"Rebanada de pan integral con tortilla francesa, yogur natural entero con mandarina"
+102,12,sp,"Vaso de kefir con semillas de chía y trozos de kiwi, y biscotes multicereales"
+103,13,sp,"Taza de leche semidesnatada (o bebida vegetal) con cacao puro en polvo, y biscote integral con huevo semi-cocido y uvas"
+104,14,sp,"Yogur griego natural con trozos de albaricoque fresco, y tortitas de arroz inflado integral "
+105,15,sp,"Taza de leche semidesnatada (o bebida vegetal) con café, y sandwich de pavo, manzana y rúcula"
+106,16,sp,"Taza de leche semidesnatada (o bebida vegetal) con canela en polvo, y tostada de pan integral con tomate y atún al natural"
+107,17,sp,"Batido de mandarina, plátano y leche semidesnatada, y pan integral con aceite de oliva."
+108,18,sp,Yogur natural entero con trozos de manzana asada con canela y semillas de chía
+109,19,sp,"Taza de leche semidesnatada (o bebida vegetal), y tostada de pan integral con aceite de oliva, huevo pasado por agua y uvas"
+110,20,sp,Yogur natural con arándanos y copos de avena
+111,21,sp,Kefir con fresas y mezcla de frutos secos
+112,22,sp,Yogur natural entero y mezcla de frutos secos
+113,23,sp,Yogur griego natural con semillas de chía y plátano
+114,24,sp,Palitos de pan integral con queso fresco y mandarina
+115,25,sp,"Fajita integral con aguacate y queso fresco, y cerezas"
+116,26,sp,Tostada integral con mantequilla de cacahuete y manzana
+117,27,sp,"Macedonia de frutas y semillas, y tortitas de arroz inflado integral"
+118,28,sp,"Tostadas cracker integrales con compota de manzana, canela y queso fresco"
+119,29,sp,"Palitos de pan integral con hummus de lentejas, y rodajas de piña natural"
+120,30,sp,"Sandwich de pavo, manzana y rúcula"
+121,31,sp,"Ensalada de hortalizas, Muslos de pollo al horno con patatas, y Pera"
+122,32,sp,"Espaguetis de calabacín y zanahoria salteados con semillas, Huevos revueltos con gambas y espárragos trigueros con biscote de pan integral, y Naranja"
+123,33,sp,"Ensalada campera, Sardinas horneadas, y Yogur desnatado con frutas"
+124,34,sp,"Ensalada de cous-cous, Tortilla con cebolla y ajo, y Ciruela"
+125,35,sp,"Risotto con pera, espinacas y nueces, y Sandía"
+126,36,sp,"Lentejas guisadas con pollo y verduras, tostada cracker integral, y kiwi"
+127,37,sp,"Ensalada de brotes verdes, manzana y granada, y Macarrones gratinados "
+128,38,sp,"Gazpacho, Dorada al horno con patatas y pimientos, y Melocotón"
+129,39,sp,"Champiñones al ajillo, Nuggets de pollo con rebozado de quinoa al horno, y Yogur natural entero"
+130,40,sp,"Judías verdes con patatas, Bacalao con salsa de tomate, y Piña"
+131,41,sp,Ensalada griega con sandía y Fideuá de rape
+132,42,sp,"Coliflor hervida con bechamel, Pechuga de pavo marinada con naranja, y yogur natural con copos de avena"
+133,43,sp,"Ensalada de lentejas rojas, Espaguetis verdes, y mandarina"
+134,44,sp,"Tomates rellenos de arroz integral y atún, Merluza en salsa verde, y pera"
+135,45,sp,"Ensalada verde con queso de cabra, Paella marinera, y manzana asada"
+136,46,sp,"Ensaladilla rusa, libritos de pollo rellenos de espinacas y queso, y albaricoque"
+137,47,sp,"Ensalada de garbanzos, Salmón con verduras al horno, y kiwi "
+138,48,sp,"Crema de calabaza y calabacín con picatostes, Conejo guisado al ajillo, y piña natural"
+139,49,sp,"Lentejas guisadas con verduras y arroz, Croquetas de pollo al horno, y naranja"
+140,50,sp,"Habas a la catalana, Huevo semi-cocido, y fresas"
+141,51,sp,"Ensalada de cous-cous, Atún a la plancha, y manzana"
+142,52,sp,"Salmorejo con huevo cocido y jamón serrano, Hamburguesa de alubias rojas, y sandía"
+143,53,sp,"Vichyssoise de puerro y patata, Pollo al horno con higos, y yogur con frutas"
+144,54,sp,"Sopa de verduras con fideos, Rollitos de pavo rellenos de setas al horno, y uvas"
+145,55,sp,"Ensalada de pasta con vegetales y mozzarella, Albóndigas de pavo en salsa, y yogur natural entero "
+146,56,sp,"Tomates rellenos de quinoa y atún, Huevos revueltos con verduras, y cerezas"
+147,57,sp,"Sopa de lentejas, Arroz al curry, y kiwi"
+148,58,sp,"Ensalada verde con calabacín y sésamo, Moussaka vegetal de berenjena, calabacín y patata, y pera"
+149,59,sp,"Ensalada de hortalizas, Estofado de ternera con patatas, y ciruela"
+150,60,sp,Tostada cracker integral con hummus
+151,61,sp,"Macedonia de plátano, naranja y fresas"
+152,62,sp,Kefir con moras y mix de frutos secos
+153,63,sp,Yogur griego natural con fresas
+154,64,sp,Hummus de lentejas con palitos de pan integrales
+155,65,sp,Porridge con fruta de temporada
+156,66,sp,Kefir con plátano y semillas de chía
+157,67,sp,Yogur para beber desnatado natural y mix de frutos secos
+158,68,sp,"Tortitas de arroz inflado integrales con queso fresco, y moras"
+159,69,sp,"Ensalada de maíz con aguacate y nachos naturales, y Tortilla de patatas"
+160,70,sp,"Alcachofas salteadas con ajo y huevo a la plancha, y tostada de pan integral "
+161,71,sp,"Esqueixada de bacalao, y falafel con crema de yogur natural"
+162,72,sp,"Tostada integral con escalivada, y sardinas en escabeche"
+163,73,sp,Ensalada de arroz con pollo
+164,74,sp,"Guisantes a la catalana con jamón curado, y Biscote integral con queso fresco"
+165,75,sp,"Edamame salteados, y Brandada de bacalao"
+166,76,sp,Fajitas de pollo y verduras
+167,77,sp,"Ensalada de brotes verdes, manzana y granada, y Calamares guisados con cebolla"
+168,78,sp,"Ensalada verde con calabacín y sésamo, y Fideos de arroz con gambas"
+169,79,sp,"Crema de brócoli y guisantes con semillas, y Brochetas de pavo y calabacín a la parrilla"
+170,80,sp,"Gazpacho andaluz, y Pulpo a la gallega"
+171,81,sp,Ensalada César
+172,82,sp,Ensalada de arroz con salmón o atún fresco y guisantes
+173,83,sp,"Ensalada de hortalizas, Empanada de atún y huevo al horno"
+174,84,sp,Tostada integral con pisto de verduras y huevo a la plancha
+175,85,sp,Arroz tres delicias
+176,86,sp,Ensalada de garbanzos y bacalao 
+177,87,sp,"Batido de leche con fruta de temporada y canela, y mix de frutos secos"
+178,88,sp,"Boquerones en vinagre, y arroz caldoso con verduras. Ciruelas"
+179,89,sp,"Espaguetis verdes, y tortilla a la francesa"
+180,90,sp,Pastel de bacalao
+181,151,en,"Whole Wheat Lavash, Labneh, Breakfast Sauce"
+182,152,en,Menemen and Linden tea
+183,153,en,Bread with egg and Orange juice
+184,154,en,Cinnamon carrot cake and peach juice
+185,155,en,Zucchini omelet and carrot juice
+186,156,en,Vegetable pancakes and apple juice
+187,157,en,Oatmeal toast and honey milk
+188,158,en,Banana Oatmeal Pancakes and Green Olives
+189,159,en,"Whole-grain toast with tomatoes, feta cheese and dried apricot compote"
+190,160,en,Parsley omelette and rye bread
+191,161,en,Porridge and chamomile tea
+192,162,en,Pancake with spinach and dried prune compote
+193,163,en,Vegetable wrap and semi fat ayran
+194,164,en,Cheddar sandwich an rosehip tea
+195,165,en,Potato with egg and chopped vegetables
+196,166,en,Pogaca with olive and semi fat kefir
+197,167,en,Omelette with cheese and mandarin juice
+198,168,en,"Crepe with cinnamon, black olive, cottage cheese"
+199,169,en,"Dates, peanut butter, quince tea"
+200,170,en,"Raisin cake, linden tea"
+201,171,en,Dried Mulberry and Protein Milk
+202,172,en,Fruit oatmeal bar and Milk
+203,173,en,Semi fat milk and prunes
+204,174,en,Kefir and quince
+205,175,en,Cherry and chickpea
+206,176,en,Semi fat milk and fig
+207,177,en,Almond and probiotic ayran
+208,178,en,Semi fat yogurt and peach
+209,179,en,"Strawberry, milk with cinnamon"
+210,180,en,"Poached Eggs, Olive Paste, Crispy Bread"
+211,181,en,"Bread pizza, Ayran"
+212,182,en,Sandwich and Susurluk Ayranı
+213,183,en,Chicken Barley Noodle Salad and Ayran
+214,184,en,Zucchini hash and Yogurt
+215,185,en,Cauliflower Pastry and Grapefruit Juice
+216,186,en,Oatmeal with tomato pastry and lemonade
+217,187,en,Egg spinach and einkorn bread
+218,188,en,Lentil Meatballs and Pomegranate Juice
+219,189,en,Meatball soup and bulgur pilaf
+220,190,en,Carrot green lentil and cherry juice
+221,191,en,Stuffed peppers with olive oil and yogurt
+222,192,en,Meat Veggie Noodle Rice and Blackberry Juice
+223,193,en,Green lentil soup and vegetable gratin
+224,194,en,"Pogaca with dill, cheese and raisin compote"
+225,195,en,Tarhana soup and vegetable patties
+226,196,en,Chickpeas with minced meat and bulgur pilaf with vegetables
+227,197,en,Cauliflower with minced meat and cacık with oil
+228,198,en,Pastry with leek and apple compote
+229,199,en,Zucchini with olive oil and probiotic yoghurt
+230,200,en,Baked vegetable and buckwheat bread
+231,201,en,"Pasta with minched meat, cacıkj"
+232,202,en,"Spinach soup, boiled chicken"
+233,203,en,"Okra with meat, eggplant bulgur pilaf"
+234,204,en,"Chicken pastry, ayran with dried mint, coban salad"
+235,205,en,"Chickpea dish, noodle pilaf, cucumber pickle"
+236,206,en,"Mediterranean pasta salad, Susurluk ayranı"
+237,207,en,"Kısır, Peach iced tea"
+238,208,en,"Chicken Roll Zucchini, Eggplant Salad with Yogurt"
+239,209,en,"Popcorn(no oil), grape juice"
+240,210,en,Rice pudding
+241,211,en,"Dried apricott, pumpkin seed"
+242,212,en,Banana and Hazelnut
+243,213,en,Green apple and walnut
+244,214,en,Pistachios and raisins
+245,215,en,Whole wheat bread and full fat cheese
+246,216,en,Kaju and tangerine
+247,217,en,Roasted chickpea bar and cherry compote
+248,218,en,Melon and peanut
+249,219,en,"Toasted bread with labneh, Blackberry tea"
+250,220,en,Ice Cream
+251,221,en,"Baked Pasta with Béchamel Sauce, Broccoli Salad with Yogurt"
+252,222,en,"Lentil soup, Chicken meatballs with dill, Pasta with sauce, Seasonal salad"
+253,223,en,"Tomato soup, Karnıyarık, Rice, Cacık"
+254,224,en,"Ezogelin soup, lemon chicken and beet salad"
+255,225,en,"Olive oil red kidney beans, izmir meatball and purslane salad"
+256,226,en,"Dried beans, couscous pilaf and black mulberry juice"
+257,227,en,Yoghurt soup and kinds of vegetable dish
+258,228,en,Zucchini ravioli and stuffed rice
+259,229,en,"Baked fish, borlotti beans with olive oil and arugula salad"
+260,230,en,"Cold ayran soup, oven meatballs and iceberg lettuce salad"
+261,231,en,"Rice-yoghurt-mint soup, casserole with vegetables and tomato salad"
+262,232,en,"Spinach with minced meat, soup with tomato and grain-shaped macaroni and humus"
+263,233,en,"Chicken with vegetable, black cabbage soup and yoghurt"
+264,234,en,"Seasoned celery with meat, lettuce salad"
+265,235,en,"Pumpkin soup, cabbage rolls"
+266,236,en,"Steamed fish, salad with potato"
+267,237,en,"Noodle soup, meatball with vegetables"
+268,238,en,"Milky soup, green beans dish"
+269,239,en,"Düğün Soup, Broccoli Meatballs, Turmeric Basmati Rice, Carrot Tarator"
+270,240,en,"Calico Soup, Ravioli, Strained Yogurt"
+271,151,tr,"Tam Buğday Lavaş, Labne, Kahvaltılık sos"
+272,152,tr,Menemen ve Ihlamur çayı
+273,153,tr,Yumurtalı ekmek ve Portakal Suyu
+274,154,tr,Tarçınlı cevizli kek ve şeftali suyu
+275,155,tr,Kabaklı omlet ve havuç suyu
+276,156,tr,Sebzeli krep ve elma suyu
+277,157,tr,Yulaf tost ve ballı süt
+278,158,tr,Muzlu yulaflı pankek ve yeşil zeytin
+279,159,tr,"Domatesli, beyaz peynirli tam tahıllı tost ve kuru kayısı hoşafı"
+280,160,tr,Maydanozlu omlet ve çavdar ekmek
+281,161,tr,Yulaf lapası ve papatya çayı
+282,162,tr,Ispanaklı gözleme ve kuru erik hoşafı
+283,163,tr,Sebzeli dürüm ve yarım yağlı ayran
+284,164,tr,Kaşarlı sandviç ve kuşburnu çayı
+285,165,tr,Patatesli yumurta ve söğüş sebze
+286,166,tr,Zeytinli poğaça ve yarım yağlı kefir
+287,167,tr,Peynirli omlet ve üzüm suyu 
+288,168,tr,"Tarçınlı krep, siyah zeytin, süzme peynir"
+289,169,tr,"Hurma, fıstık ezmesi, ayva çayı"
+290,170,tr,"Üzümlü kek, ıhlamur çayı"
+291,171,tr,Kuru dut ve Proteinli Süt
+292,172,tr,Meyveli yulaf bar ve Süt
+293,173,tr,Yarım yağlı süt ve kuru erik
+294,174,tr,Kefir ve ayva
+295,175,tr,Kiraz ve leblebi
+296,176,tr,Yarım yağlı süt ve incir
+297,177,tr,Badem ve probiyotik ayran
+298,178,tr,Yarım yağlı yoğurt ve şeftali
+299,179,tr,"Çilek, tarçınlı süt"
+300,180,tr,"Poşe Yumurta, Zeytin Ezmesi, Kıtır Ekmek"
+301,181,tr,"Ekmek pizza, Ayran"
+302,182,tr,Sandviç ve Susurluk Ayranı
+303,183,tr,Tavuklu Arpa Şehriye Salatası ve Ayran
+304,184,tr,Kabak mücver ve Yoğurt
+305,185,tr,Karnabahar böreği ve greyfurt suyu
+306,186,tr,Domatesli yulaflı poğaça ve limonata
+307,187,tr,Yumurtalı ıspanak ve siyez ekmeği
+308,188,tr,Mercimek köftesi ve nar suyu
+309,189,tr,Köfteli çorba ve bulgur pilavı
+310,190,tr,Havuçlu yeşil mercimek ve vişne suyu
+311,191,tr,zeytinyağlı biber dolması ve yoğurt
+312,192,tr,Etli sebzeli şehriye pilavı ve böğürtlen suyu
+313,193,tr,Yeşil mercimek çorbası ve sebze graten
+314,194,tr,"Dereotlu, peynirli poğaça ve kuru üzüm hoşafı"
+315,195,tr,Tarhana çorbası ve sebze köftesi
+316,196,tr,Kıymalı nohut ve sebzeli bulgur pilavı
+317,197,tr,Kıymalı karnabahar ve yağlı cacık
+318,198,tr,Pırasalı börek ve elma kompostosu
+319,199,tr,Zeytinyağlı kabak ve probiyotik yoğurt
+320,200,tr,Fırında sebze ve karabuğday ekmeği
+321,201,tr,"Kıymalı erişte, cacık"
+322,202,tr,"Ispanak çorba, tavuk haşlama"
+323,203,tr,"Etli bamya, patlıcanlı bulgur pilavı"
+324,204,tr,"Tavuklu börek, naneli ayran, çoban salata"
+325,205,tr,"Nohut yemeği, şehriye pilavı, turşu"
+326,206,tr,"Akdeniz makarna salatası, Susurluk ayranı"
+327,207,tr,"Kısır, Şeftalili soğuk çay"
+328,208,tr,"Tavuklu rulo kabak, Yoğurtlu patlıcan salatası"
+329,209,tr,"Patlamış mısır, üzüm suyu"
+330,210,tr,Sütlaç
+331,211,tr,"Kuru kayısı, kabak çekirdeği"
+332,212,tr,Muz ve Fındık
+333,213,tr,Yeşil elma ve ceviz
+334,214,tr,Antep fıstığı ve kuru üzüm
+335,215,tr,Tam buğday ekmek ve tam yağlı peynir
+336,216,tr,Kaju ve mandalina
+337,217,tr,Leblebi bar ve vişne kompostosu
+338,218,tr,Kavun ve yer fıstığı
+339,219,tr,"Labneli kızarmış ekmek, Böğürtlen çayı"
+340,220,tr,Dondurma
+341,221,tr,"Beşamel soslu fırın makarna, Yoğurtlu Brokoli salatası"
+342,222,tr,"Mercimek çorbası, Dereotlu tavuk köftesi, Salçalı makarna ve Mevsim salatası"
+343,223,tr,"Domates çorbası, Karnıyarık, Pirinç pilavı, Cacık"
+344,224,tr,"Ezogelin çorbası, limonlu tavuk ve pancar salatası"
+345,225,tr,"Zeytinyağlı barbunya, izmir köfte ve semizotu salatası"
+346,226,tr,"Kuru fasulye, kuskus pilavı ve karadut suyu"
+347,227,tr,Yoğurt çorbası ve türlü yemeği
+348,228,tr,Kabak mantısı ve iç pilav
+349,229,tr,"Fırında balık, zeytinyağlı barbunya pilaki ve roka salatası"
+350,230,tr,"Soğuk ayran çorbası, fırın köfte ve göbek salata"
+351,231,tr,"Yayla çorbası, sebzeli tavuk güveci ve domates salatası"
+352,232,tr,"Kıymalı ıspanak, domatesli arpa şehriye çorbası ve humus"
+353,233,tr,"Sebzeli tavuk, karalahana çorbası ve yoğurt"
+354,234,tr,"Etli terbiyeli kereviz, marul salatası"
+355,235,tr,"Balkabağı çorbası, lahana sarması"
+356,236,tr,"Balık buğulama, patates salatası"
+357,237,tr,"Şehriye çorbası, sebzeli köfte"
+358,238,tr,"Sütlü çorba, taze fasulye yemeği"
+359,239,tr,"Düğün çorbası, Brokoli köftesi, Zerdeçallı basmati pilavı, Havuç tarator"
+360,240,tr,"Alaca çorbası, Mantı, Süzme yoğurt"
